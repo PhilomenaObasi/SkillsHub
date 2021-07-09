@@ -1,2 +1,2 @@
-# SkillsUp
+# SkillsHub
 My Final Year Project
